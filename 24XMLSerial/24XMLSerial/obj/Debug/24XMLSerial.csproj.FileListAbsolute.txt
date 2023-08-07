@@ -1,0 +1,11 @@
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\bin\Debug\24XMLSerial.exe.config
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\bin\Debug\24XMLSerial.exe
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\bin\Debug\24XMLSerial.pdb
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\bin\Debug\EmpLIB.dll
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\bin\Debug\EmpLIB.pdb
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\obj\Debug\24XMLSerial.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\obj\Debug\24XMLSerial.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\obj\Debug\24XMLSerial.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\obj\Debug\24XMLSerial.csproj.CopyComplete
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\obj\Debug\24XMLSerial.exe
+D:\Simplilearn\Day-21\Assignment\24XMLSerial\24XMLSerial\obj\Debug\24XMLSerial.pdb

@@ -1,0 +1,11 @@
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\obj\Debug\Binary24Ass.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\obj\Debug\Binary24Ass.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\obj\Debug\Binary24Ass.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\bin\Debug\Binary24Ass.exe.config
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\bin\Debug\Binary24Ass.exe
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\bin\Debug\Binary24Ass.pdb
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\bin\Debug\EmpLIB.dll
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\bin\Debug\EmpLIB.pdb
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\obj\Debug\Binary24Ass.csproj.CopyComplete
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\obj\Debug\Binary24Ass.exe
+D:\Simplilearn\Day-21\Assignment\Binary24Ass\Binary24Ass\obj\Debug\Binary24Ass.pdb
